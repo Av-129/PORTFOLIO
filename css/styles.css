@@ -1,0 +1,183 @@
+#title {
+  background: #ff4c68;
+  padding: 3% 15% 7%;
+  ;
+}
+
+html {
+  scroll-behavior: smooth;
+  margin: 0;
+}
+
+body {
+  font-family: "Montserrat";
+
+
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+.navbar {
+  padding: 0 0 4.5rem;
+
+
+}
+
+.navbar-brand {
+  font-family: "Montserrat";
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px 0 18px;
+
+}
+
+.nav-item {
+  font-size: 1.2em;
+  font-weight: lighter;
+}
+
+/* Download-button */
+.Download-button {
+  margin: 5% 2% 5% 0;
+}
+
+#title-section {
+  margin: 50px;
+  text-shadow: 2px 2px 4px #000000;
+
+}
+
+#Title-Image {
+  padding: 20px;
+  padding-left: 10%;
+
+}
+
+
+
+#features {
+  padding: 3% 10%;
+  padding-top: 5%;
+  margin-bottom: 100px;
+  position: relative;
+  background: white;
+  z-index: 1;
+}
+
+.About {
+  margin-bottom: 20px;
+}
+
+.content p {
+  font-size: larger;
+}
+
+.content li:hover {
+  color: red;
+}
+
+.skills {
+  padding: 2% 5% 0;
+}
+
+.Feature {
+  padding: 3%;
+  margin: 6em 0;
+  text-align: center;
+}
+
+.Feature-icon {
+  color: #ef8172;
+  margin-bottom: 0.5em;
+}
+
+.Feature-icon:hover {
+  color: red;
+}
+
+h3 {
+  /* font-size: 1.5rem; */
+  font-family: "Montserrat";
+  font-weight: 800;
+}
+
+.Feature-content {
+  color: grey;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-weight: 900;
+  /* font-size: 3em; */
+}
+
+
+
+.title-content {
+  padding: 5% 0 8% 0;
+  color: white;
+  line-height: 2;
+  font-size: 60px
+}
+
+#project {
+  background: #ff4c68;
+  padding: 10% 0;
+  padding-top: 5%;
+
+
+
+}
+
+.project-img {
+  text-align: center;
+
+}
+
+.project-thumbnails {
+
+  margin: 0 3px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+
+
+
+
+
+}
+
+.project-thumbnails:hover {
+  box-shadow: 2px 2px 4px #000000;
+}
+
+
+#footer {
+  padding: 100px 70px 0;
+  background: white;
+  text-align: center;
+}
+
+.footer-icon {
+  margin: 5px;
+  padding-bottom: 15px;
+}
+
+
+
+@media (max-width:1028px) {
+  #title {
+    text-align: center;
+  }
+
+}
